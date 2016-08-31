@@ -13,10 +13,5 @@ namespace TestProject
             Console.WriteLine("This is a line.");
             Console.WriteLine("This is another line.");
         }
-
-        static void TestMethod()
-        {
-            return;
-        }
     }
 }
