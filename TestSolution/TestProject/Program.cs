@@ -11,7 +11,6 @@ namespace TestProject
         static void Main(string[] args)
         {
             Console.WriteLine("This is a line.");
-            Console.WriteLine("This is another line.");
         }
     }
 }
