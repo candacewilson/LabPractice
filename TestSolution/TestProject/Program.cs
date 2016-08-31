@@ -14,6 +14,11 @@ namespace TestProject
             Console.WriteLine("This is another line.");
         }
 
+        static void TestMethod()
+        {
+            return;
+        }
+
         static void AnotherTestMethod()
         {
             return;
